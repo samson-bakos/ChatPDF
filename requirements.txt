@@ -1,0 +1,5 @@
+fitz
+langchain
+langchain_core
+streamlit
+langchain_openai
