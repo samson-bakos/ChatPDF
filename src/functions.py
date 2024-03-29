@@ -44,10 +44,10 @@ def query_llm(text_chunks, query, llm):
         elif isinstance(response, str):
             combined_responses.append(response.strip())
 
-    # Join the responses into a single text block for summarization
+    # join the responses into a single text block for summarization
     combined_text = " ".join(combined_responses)
 
-    # Make a new query to the model for summarization
+    # make a new query to the model for summarization
     summary_prompt = (
         f"Summarize the following responses into a concise answer: {combined_text}"
     )
