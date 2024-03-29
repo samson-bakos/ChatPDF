@@ -1,6 +1,6 @@
 # ChatPDF: Interactive Document Conversational Interface
 
-ChatPDF is a Streamlit-based web application designed to facilitate interactive querying of PDF documents. By leveraging the power of OpenAI's language models through the LangChain framework, ChatPDF allows users to upload PDF documents and ask natural language questions to receive concise, contextually relevant information extracted directly from the text.
+ChatPDF is a Streamlit-based web application designed to facilitate interactive querying of PDF documents.
 
 ## Features
 
