@@ -22,7 +22,6 @@
 - Ensure you have Python and Streamlit installed.
 - Install the required Python packages, see the [requirements](requirements.txt)
 - Run the app locally using Streamlit: `streamlit run src/app.py`.
-- For deployment, refer to Streamlit Sharing documentation to securely manage and deploy your application with sensitive API keys hidden.
 
 ## License
 
