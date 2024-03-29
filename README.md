@@ -1,6 +1,6 @@
-# ChatPDF: Interactive Document Conversational Interface
+# [ChatPDF](https://samsonbakos-chatpdf.streamlit.app): Interactive Document Conversational Interface
 
-ChatPDF is a Streamlit-based web application designed to facilitate interactive querying of PDF documents.
+[ChatPDF](https://samsonbakos-chatpdf.streamlit.app) is a Streamlit-based web application designed to facilitate interactive querying of PDF documents.
 
 ## Features
 
