@@ -20,7 +20,7 @@
 ## Local Setup and Usage
 
 - Ensure you have Python and Streamlit installed.
-- Install the required Python packages, see the [requirements](requirements.txt)
+- Install the required Python packages, see the [src/requirements](requirements.txt)
 - Run the app locally using Streamlit: `streamlit run src/app.py`.
 
 ## License
