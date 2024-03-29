@@ -1,4 +1,3 @@
-fitz
 langchain
 langchain_core
 streamlit
